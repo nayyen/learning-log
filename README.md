@@ -9,9 +9,9 @@ I'm following a 48-week roadmap: Python → SQL → APIs → LLMs → RAG → Ag
 | Date | Topic |
 |---|---|
 | [2026-10-08](log/2026-10-08.md) | Setup GitHub, Git proxy, Notion, LinkedIn |
-| [2026-10-12](log/2026-10-12.md) | install Python 3.13.1, buat virtual environment (.venv), install package requests, siapkan VS Code dengan interpreter .venv |
+| [2026-10-12](log/2026-10-12.md) | Install Python, venv, VS Code, Git branch and PR, hello API |
 
 ## Progress
 
- - [x] Minggu 1: Setup GitHub, Notion, LinkedIn
- - [ ] Minggu 2: Git workflow dan Python dasar.
+- [x] Minggu 1: Setup GitHub, Notion, LinkedIn
+- [ ] Minggu 2: Git workflow dan Python dasar
