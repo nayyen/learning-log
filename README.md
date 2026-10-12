@@ -14,4 +14,4 @@ I'm following a 48-week roadmap: Python → SQL → APIs → LLMs → RAG → Ag
 ## Progress
 
 - [x] Minggu 1: Setup GitHub, Notion, LinkedIn
-- [ ] Minggu 2: Git workflow dan Python dasar
+- [x] Minggu 2: Git workflow dan Python dasar
